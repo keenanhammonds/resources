@@ -76,3 +76,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@Rapcis](https://github.com/Rapcis)
 - [@kvonklein](https://github.com/kvonklein)
 - [@simongreenuk](https://github.com/simongreenuk)
+- [@keenanhammonds](https://github.com/keenanhammonds)
